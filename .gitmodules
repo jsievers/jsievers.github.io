@@ -1,3 +1,4 @@
 [submodule "uwe"]
 	path = uwe
 	url = git@github.com:jsievers/uwe.git
+	branch = gh-pages
